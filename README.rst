@@ -32,6 +32,10 @@ NTLM challenge-response.
 Installation
 ------------
 
+.. image:: https://pypip.in/version/requests_ntlm/badge.svg
+    :target: https://pypi.python.org/pypi/requests_ntlm/
+    :alt: Latest Version
+
     pip install requests_ntlm
 
 Requirements
